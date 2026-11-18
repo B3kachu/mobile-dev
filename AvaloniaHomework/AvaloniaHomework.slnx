@@ -2,6 +2,8 @@
   <Project Path="AvaloniaHomework.Android/AvaloniaHomework.Android.csproj">
     <Deploy />
   </Project>
+  <Project Path="AvaloniaHomework.ConsoleApp/AvaloniaHomework.ConsoleApp.csproj" />
+  <Project Path="AvaloniaHomework.Data/AvaloniaHomework.Data.csproj" />
   <Project Path="AvaloniaHomework.Desktop/AvaloniaHomework.Desktop.csproj" />
   <Project Path="AvaloniaHomework/AvaloniaHomework.csproj" />
 </Solution>
